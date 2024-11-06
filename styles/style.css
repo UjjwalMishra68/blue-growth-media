@@ -160,7 +160,7 @@ p {
 .pill {
     position: relative;
     padding: 1rem 1.6rem;
-    font-size: var(--size-14px);
+    font-size: var(--size-16px);
     font-weight: 400;
     color: var(--washed-purple-400);
     border: 2px solid transparent;
@@ -208,7 +208,7 @@ p {
 }
 
 .section__description {
-    font-size: var(--size-14px);
+    font-size: var(--size-16px);
     color: var(--washed-purple-400);
     max-width: 50ch;
 }

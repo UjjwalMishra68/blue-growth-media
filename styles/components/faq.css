@@ -40,7 +40,7 @@
     overflow: hidden;
     transition: height 0.4s ease, opacity 0.4s ease;
     color: var(--washed-purple-500);
-    font-size: var(--size-14px);
+    font-size: var(--size-16px);
 }
 
 .faq__answer>p {

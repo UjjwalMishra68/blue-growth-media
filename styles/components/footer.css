@@ -15,9 +15,8 @@
 
 .footer__links ul a {
     cursor: pointer;
-    gap: var(--size-16px);
     color: var(--washed-purple-200);
-    font-size: var(--size-14px);
+    font-size: var(--size-16px);
     font-weight: 600;
 }
 
@@ -35,6 +34,7 @@
     font-weight: 100;
     font-size: var(--size-24px);
     cursor: pointer;
+    color: var(--washed-purple-200);
 }
 
 .tablet {

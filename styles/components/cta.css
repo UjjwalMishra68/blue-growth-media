@@ -1,6 +1,6 @@
 .cta__inner-wrapper {
     text-align: center;
-    padding: 5.6rem .6rem;
+    padding: 5.6rem 1.2rem;
     background: radial-gradient(107% 107% at 50% 50%, rgba(5, 9, 32, 0.24) 0%, rgba(80, 0, 181, 0.24) 100%);
     border-radius: var(--size-16px);
     position: relative;
@@ -32,7 +32,7 @@
 }
 
 .cta__description {
-    font-size: var(--size-14px);
+    font-size: var(--size-16px);
     color: var(--washed-purple-400);
 }
 

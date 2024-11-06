@@ -31,7 +31,7 @@
 }
 
 .benefits__description {
-    font-size: var(--size-14px);
+    font-size: var(--size-16px);
     color: var(--washed-purple-500);
 }
 
@@ -55,9 +55,6 @@
         font-size: var(--size-24px);
     }
 
-    .benefits__description {
-        font-size: var(--size-16px);
-    }
 }
 
 /* @media (min-width: 1024px) {} */

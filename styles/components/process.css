@@ -25,7 +25,7 @@
 
 .process__day {
     background-color: #171427;
-    font-size: var(--size-14px);
+    font-size: var(--size-16px);
     font-weight: 600;
     color: var(--washed-purple-200);
     border-radius: .4rem;
@@ -43,7 +43,7 @@
 }
 
 .process__cards-description {
-    font-size: var(--size-14px);
+    font-size: var(--size-16px);
     color: var(--washed-purple-500);
 }
 
