@@ -1,6 +1,5 @@
 .benefits__wrapper {
     gap: var(--size-24px);
-    grid-template-columns: repeat(auto-fit, minmax(35.1rem, 1fr));
 }
 
 .benefits__box {
@@ -41,10 +40,12 @@
 @media (min-width: 960px) {
     .benefits__wrapper {
         row-gap: var(--size-40px);
+        grid-template-columns: repeat(auto-fit, minmax(35.1rem, 1fr));
     }
 
     .benefits__box {
         padding: var(--size-32px);
+        width: fit-content;
     }
 
     .benefits__icon {
